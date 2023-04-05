@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "github-pages"
-gem "kramdown"
+gem "github-pages", ">= 207"
+gem "kramdown", ">= 2.3.0"
 gem "jekyll-github-metadata"
 gem "jekyll-relative-links"
